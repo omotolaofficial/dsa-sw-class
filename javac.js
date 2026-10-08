@@ -8,7 +8,9 @@ const names = [
     "Oluwaseun",
     "Emeka",
     "rcffbay",
-    "Emeka"
+    "Emeka",
+    "omotola",
+    "testing"
 ];
 
 names.forEach(greeting);
