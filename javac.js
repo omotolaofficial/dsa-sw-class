@@ -6,7 +6,11 @@ const names = [
     "Oluwabukolami",
     "Damilolami",
     "Oluwaseun",
-    "Emeka"
+    "Emeka",
+    "rcffbay",
+    "Emeka",
+    "omotola",
+    "testing"
 ];
 
 names.forEach(greeting);
